@@ -7,7 +7,7 @@ In Part 3 of the tutorial we will prepare the Satellite environment.  Note: We h
 ### Create a Manifest for Satellite. 
 To enable content on Satellite, you must first create a manifest file containing any Red Hat software subscriptions for that content and import the manifest into Satellite.  
 
-Go to [Red Hat Hybrid Cloud Console](https://console.redhat.com/) and login with your Red Hat customer account user id and password.  
+Go to [Red Hat Customer Portal](https://access.redhat.com/) and login with your Red Hat customer account user id and password.  
 
 Click the person icon in the upper right corner of the Red Hat customer portal page.  
 
