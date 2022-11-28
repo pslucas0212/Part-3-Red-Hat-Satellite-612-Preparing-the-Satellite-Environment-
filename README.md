@@ -87,43 +87,6 @@ The manifest will automatically be imported into Satellite and you will next see
 
 ![Subscriptions Page](/images/sat19.png)
 
-We will now add the Operations Department organization and the moline Location to our Satellite instances.  Technically we are adding it to the Capsule Server running on our Satellite instance.  At the top of the console change the Organization to Any Organization and Locations to Any Location.  On the side menu, click Infrastructure -> Capsules
-
-![Infrastructure -> Capsules](/images/sat51.png)
-
-Click the Edit button in the far right column of the sat01.example.com server line.
-
-![Click the Edit button](/images/sat52.png)
-
-In the Capsules > Edit sat01.example.com page, click on the Location tab.  And then click the moline Locations All Items box to move to the Selected items box.
-
-![Click moline](/images/sat53.png)
-
-Next click on the Organizations tab and follow the same steps above to move the Operations Department Organization from the All Items box to the Selected items
-box.  
-
-![Click Operations Department](/images/sat54.png)
-
-Click the blue Submit button and we will be returned to the Capsules pages.  There you will observe that moline is now part of the list of Locations and Operations Department is part of the Organizations list.
-
-![Capsules page](/images/sat55.png)  
-
-Finally let's associate the location and organization that we created early.  
-
-On the side menu clock Administer -> Locations.  
-
-![Adminster -> Locations](/images/sat90.png)
-
-On the Locations page, clock the moline locations link.  
-
-![Locationss -> moline](/images/sat91.png)
-
-On the Locations > Edit moline page, click the Organizations side tab.  In the Select organizations All Items list, move the Operations Department from the All Items list to the Selected items list.  Click the blue Submit button.
-
-![Selection Operations Department](/images/sat92.png)
-
-The Operations Department organization and moline location are now associated.
-
 We have now completed preparing the Satellite environment.
 
 
