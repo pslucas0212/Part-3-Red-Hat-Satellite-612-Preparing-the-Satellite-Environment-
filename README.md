@@ -29,27 +29,27 @@ You are now on the Overview tab of the Subscriptions section of the Red Hat Cust
 
 Click the blue Create New subscription allocation button.  
 
-![Click the blue Create New Subscription allocation button](images/pic05.png)  
+![Click the blue Create New Subscription allocation button](images/sat07.png)  
 
-On the Create a New Subscription Allocation page give the manifest a name and chose the version of Satellite that will use the manifest.  In our example we are creating manifest for the Moline Operations team and adding the manifest to our Satellite 6.9 environment.  Click the blue Create button to continue.
+On the Create a New Subscription allocation page give the manifest a name and chose the version of Satellite that will use the manifest.  In our example we are creating manifest for the Moline Operations team and adding the manifest to our Satellite 6.12 environment.  Click the blue Create button to continue.
 
-![Click the Create button](images/pic06.png)  
+![Click the Create button](images/sat08.png)  
 
-On the Subscription Allocations >> moline_operations page make sure that Simple content access is enabled and click on the Subscriptions tab.  
+On the Subscription Allocations >> Moline-Operations page make sure that Simple content access is enabled and click on the Subscriptions tab.  
 
-![Click on the subscriptions tab](images/pic07.png)  
+![Click on the subscriptions tab](images/sat09.png)  
 
 On the Subscriptions tab click the blue Add Subscriptions button.  
 
-![Click on the Add Subscriptions button](images/pic08.png)  
+![Click on the Add Subscriptions button](images/sat10.png)  
 
-On the Add Subscriptions to moline_operations page you will see the subscriptions available to add to the manifest.  Since we have Simple Content Access enabled we only need to add one subscription per Red Hat product to the manifest.  For this example we are adding one subscription for RHEL Premium with Smart Management. 
+On the Add Subscriptions to Moline-Operations page you will see the subscriptions available to add to the manifest.  Since we have Simple Content Access enabled we only need to add one subscription per Red Hat product to the manifest.  For this example we are adding one subscription for RHEL Premium with Smart Management. 
 
-![Add subscription ](images/pic09.png)  
+![Add subscription ](images/sat11.png)  
 
 If needed scroll down and click the submit button. 
 
-![Click submit button](images/pic10.png)  
+![Click submit button](images/sat12.png)  
 
 Click the Export Manifest button to download the manifest file that you just created.
 
