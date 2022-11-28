@@ -51,9 +51,9 @@ If needed scroll down and click the submit button.
 
 ![Click submit button](images/sat12.png)  
 
-Click the Export Manifest button to download the manifest file that you just created.
+Boack on the Subscription Allocations >> Moline-Operations page, click the Export Manifest button to download the manifest file that you just created.  We will import this file into Satellite.
 
-![Click Export Manifest](images/pic11.png) 
+![Click Export Manifest](images/sat13.png) 
 
 We can now logout of the Red Hat customer portal.  
 
