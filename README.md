@@ -21,11 +21,11 @@ Enter your password in the Password field and click the red Login button.
 
 On your Red Hat portal customer page, click the Subscriptions tab in the upper left side of the screen.  
 
-![Red Hat Customer portal Subscriptions tab](images/pic03.jpg)  
+![Red Hat Customer portal Subscriptions tab](images/sat03.png)  
 
-Click the Subscription Allocations tab found near the top middle portion of the Red Hat Customer Portal.  
+You are now on the Overview tab of the Subscriptions section of the Red Hat Customer Portal.  Click the Subscription Allocations tab found near the top middle portion of the Red Hat Customer Portal.  
 
-![Click Subscription Allocation tab](images/pic04.png)  
+![Click Subscription Allocation tab](images/sat04.png)  
 
 Click the blue Create New subscription allocation button.  
 
