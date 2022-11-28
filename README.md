@@ -13,11 +13,11 @@ Click the person icon in the upper right corner of the Red Hat customer portal p
 
 ![Red Hat Customer portal page](images/sat03.png)  
 
-Next click on the red login button.  
+On the **Log in to your Red Hat account** page, fill in your Red Hat login or email and click the Red Next button.
 
-![Red Hat Customer portal login button](images/pic02.jpg)  
+![Red Hat Customer portal login button](images/sat04.png)  
 
-In the Login in to Red Hat dialog box, enter your Red Hat login or email and click the red next button.  Enter your password in the Password field and click the red Login button.  
+Enter your password in the Password field and click the red Login button.  
 
 On your Red Hat portal customer page, click the Subscriptions tab in the upper left side of the screen.  
 
