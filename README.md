@@ -57,49 +57,17 @@ Boack on the Subscription Allocations >> Moline-Operations page, click the Expor
 
 We can now logout of the Red Hat customer portal.  
 
-### Creating an Organization and Importing the Manifest in Satellite
+### Importing the Manifest in Satellite
 
 Login to the Satellite console by entering [http://sat01.example.com](http://sat01.example.com) for the Satellite url.  Satellite will redirect the browser to Satellite's secure login page.  If this is the first time you have accessed your Red Hat Satellite console, you will need to accept Satellite's certificate for your browser.  
 
 Enter the user id and password and click the Login button.  
 
-![Click Login button](/images/sat01.png)  
+![Click Login button](/images/sat14.png)  
 
 You are now at the Satellite home screen.  
 
-![Satellite Home Srceen](/images/sat02.png)  
-
-Before we import the manifest, we will first create an Organization in Satellite.  Organizations are used to manage content related activities such as Red Hat product management, repositories and content views.  Satellite can support mutliple organization if that is required for your company and RHEL environments.  For example, you may want to split content between US and European based manufacturing with two organizational views.  You might create Ogranizations based on business units or deparatments.  In this tutorial we will create a single organzation for our fictous Moline operations team.  
-
-On the side menu click Adminster -> Organziations.  
-
-![Administer -> Organizations](/images/sat03.png)  
-
-On the Organizations page click the blue New Organization button in the upper right of the Satellite console.
-
-![New Organziation](/images/sat04.png) 
-
-Fill in the Name and Label fields and click the blue Submit button.  
-
-![Click Submit button](/images/sat05.png) 
-
-You will now see the Organizations > Edit Operations Department page.  Click the cancel button.
-
-![Click cancel button](/images/sat06.png)
-
-Now we will add a location for our organization. We can use a location to logically map geographically separate areas to an organization.  On the side menu click Administer -> Locations.  
-
-![Administer -> Locations](/images/sat07.png)   
-
-On the Locations page click the blue New Location button located towards the top right of the screen.  
-
-![Click New Location button](/images/sat08.png) 
-
-Fill in the Name field and optionally add a description.  Now click the blue Submit button to create the location.  
-
-![Click location Submit button](/images/sat09.png) 
-
-After clicking the blue Submit button you will be returned to the Locations > Edit Moline page.  
+![Satellite Home Srceen](/images/sat15.png)  
 
 We will now import the manifest into Satellite for the Operations Department organization.  
 
