@@ -1,6 +1,6 @@
 # Part 3: Red Hat Satellite 6.12 - Preparing the Satellite Environment
 
-[Tutorial Menu](https://github.com/pslucas0212/RedHat-Satellite-6.12-VM-Provisioning-to-vSphere-Tutorial/blob/main/README.md)
+[Tutorial Menu](https://github.com/pslucas0212/RedHat-Satellite-6.12-VM-Provisioning-to-vSphere-Tutorial)
 
 In Part 3 of the tutorial we will prepare the Satellite environment.  Note: We have Simple Content Access enabled on our customer portal and with any manifests that we create.  For more information regarding Simple Content Access, please refer to the Simple Content Access article link in the reference section below.  
 
