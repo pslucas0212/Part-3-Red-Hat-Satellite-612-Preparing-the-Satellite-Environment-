@@ -51,7 +51,7 @@ If needed scroll down and click the submit button.
 
 ![Click submit button](images/sat12.png)  
 
-Boack on the Subscription Allocations >> Moline-Operations page, click the Export Manifest button to download the manifest file that you just created.  We will import this file into Satellite.
+Back on the Subscription Allocations >> Moline-Operations page, click the Export Manifest button to download the manifest file that you just created.  We will import this file into Satellite.
 
 ![Click Export Manifest](images/sat13.png) 
 
@@ -73,21 +73,19 @@ We will now import the manifest into Satellite for the Operations Department org
 
 On the side menu click Content -> Subscriptions.  
 
-![Content -> Subscriptions](/images/sat10.png)   
-
-Before we import the manifest into Satellite, make sure Satellite is set to the Operations Department organization and the moline location.  You will see the current organization and location settings near the top left of the Satellite Console.  If the Operations Department and moline are not set as the organization and location, click on each respective drop down to choose the Operations Department and then the moline location.  
+![Content -> Subscriptions](/images/sat16.png)   
 
 Click on the blue Import a Manifest button.  
 
-![Import Manifest](/images/sat11.png)   
+![Import Manifest](/images/sat17.png)   
 
 In the Manage Manifest dialog box, we will leave the default settings.  Click the Browse... button. A navigation dialog box will popup.  Navigate to the location of the manifest file you downloaded and click the Open button.  
 
-![Chose Manifest](/images/sat12.png)  
+![Chose Manifest](/images/sat18.png)  
 
 The manifest will automatically be imported into Satellite and you will next see the Subscriptions page.
 
-![Subscriptions Page](/images/sat14.png)
+![Subscriptions Page](/images/sat19.png)
 
 We will now add the Operations Department organization and the moline Location to our Satellite instances.  Technically we are adding it to the Capsule Server running on our Satellite instance.  At the top of the console change the Organization to Any Organization and Locations to Any Location.  On the side menu, click Infrastructure -> Capsules
 
