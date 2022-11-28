@@ -11,7 +11,7 @@ Go to [Red Hat Customer Portal](https://access.redhat.com/) and login with your 
 
 Click the person icon in the upper right corner of the Red Hat customer portal page.  
 
-![Red Hat Customer portal page](images/pic01.jpg)  
+![Red Hat Customer portal page](images/sat03.png)  
 
 Next click on the red login button.  
 
